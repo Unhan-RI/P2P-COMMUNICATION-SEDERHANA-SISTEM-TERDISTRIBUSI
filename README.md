@@ -1,5 +1,7 @@
 # Peer-to-Peer (P2P) Communication with Random Walk File Search
 
+Rizqullah Aryaputra Piliang & Ikhwan M. Faried
+
 ## Deskripsi Proyek
 
 Proyek ini adalah implementasi dari sistem komunikasi peer-to-peer (P2P) yang mendukung pencarian dan pengunduhan file melalui metode **random walk**. Setiap node dalam jaringan berperan sebagai server dan client, memungkinkan berbagi file dan pencarian secara acak di antara peers (node lain).
